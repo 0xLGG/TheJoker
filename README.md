@@ -1,5 +1,7 @@
 # TheJoker (Discord Bot telling Bad Jokes)
 
+![The Joker](img/joker.jpg)
+
 ## Info
 
 This Bot tells Bad Jokes in your Discord Channel. Install it when you want to win a "YLYL" challange.
