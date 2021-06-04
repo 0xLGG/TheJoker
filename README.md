@@ -14,7 +14,7 @@ Taken from this [template](https://github.com/Lajbel/Discord.JS-Bot-Template) an
 
 - Create Bot in [Discord Dev Tools](https://discord.com/developers/)
 - Under `OAuth2` select `bot`
-- Permission code integer is 2147490816`
+- Permission code integer is `2147490816`
 - Open displayed link and invite Bot to Discord Server
 - Add your Discord Token in your env `DISCORD_BOT_TOKEN`
 - Run the replit
