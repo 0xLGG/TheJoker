@@ -1,0 +1,24 @@
+{
+  "name": "TheJokerReal",
+  "version": "1.0.0",
+  "description": "Discord Bot telling Bad Jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xLGG/TheJoker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xLGG/TheJoker/issues"
+  },
+  "homepage": "https://github.com/0xLGG/TheJoker#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
