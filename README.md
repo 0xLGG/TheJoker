@@ -1,6 +1,8 @@
 # TheJoker (Discord Bot telling Bad Jokes)
 
-![The Joker](img/joker.jpg)
+**Life is too short to be taken seriously...**
+
+![The Joker](img/joker-600.jpg)
 
 ## Info
 
