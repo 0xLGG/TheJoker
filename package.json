@@ -2,18 +2,24 @@
   "name": "TheJokerReal",
   "version": "1.0.0",
   "description": "Discord Bot telling Bad Jokes.",
+  "license": "MIT",
+  "keywords": [
+    "bot",
+    "discord",
+    "discord.js",
+    "replit",
+    "openode"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy-openode": "openode deploy"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/0xLGG/TheJoker.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "LGG",
   "bugs": {
     "url": "https://github.com/0xLGG/TheJoker/issues"
   },
@@ -21,5 +27,8 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "openode": "^2.1.2"
   }
 }
