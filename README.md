@@ -13,7 +13,7 @@ This Bot tells Bad Jokes in your Discord Channel. Install it when you want to wi
 - Replit example taken from this [template](https://github.com/Lajbel/Discord.JS-Bot-Template) and [example](https://replit.com/@TereDeJugo/DiscordJS-Bot-Template) by [Lajbel](https://lajbel.tk/).
 - Openode example take from this [Bot](https://github.com/Zerotask/discord-bot-goldi) by [Zerotask](https://github.com/zerotask)
 
-## Step by Step run on [replit](https://replit.com/)
+## Step by Step 
 
 - Create Bot in [Discord Dev Tools](https://discord.com/developers/)
 - Under `OAuth2` select `bot`
