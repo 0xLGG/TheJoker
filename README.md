@@ -10,9 +10,9 @@ This Bot tells Bad Jokes in your Discord Channel. Install it when you want to wi
 
 ## Credits
 
-- Replit example taken from this [template](https://github.com/Lajbel/Discord.JS-Bot-Template) and [example](https://replit.com/@TereDeJugo/DiscordJS-Bot-Template) by [Lajbel](https://lajbel.tk/).
-- Openode example take from this [Bot](https://github.com/Zerotask/discord-bot-goldi) by [Zerotask](https://github.com/zerotask)
 - Big thanks to [openode.io](https://www.openode.io/) where this Joker is hosted and that even for ... free!
+- Openode example take from this [Bot](https://github.com/Zerotask/discord-bot-goldi) by [Zerotask](https://github.com/zerotask)
+- Replit example taken from this [template](https://github.com/Lajbel/Discord.JS-Bot-Template) and [example](https://replit.com/@TereDeJugo/DiscordJS-Bot-Template) by [Lajbel](https://lajbel.tk/).
 
 ## Step by Step 
 
@@ -34,18 +34,18 @@ This Bot tells Bad Jokes in your Discord Channel. Install it when you want to wi
 - Permission code integer is `2147490816`
 - Open displayed link and invite Bot to Discord Server
 
-### Run on [replit](https://replit.com/)
-
-- Go To replit and import the project 
-- Add your Discord Token in your env `DISCORD_BOT_TOKEN`
-- Run the replit
-
 ### Run on [openode](https://www.openode.io/)
 
 - Go to openode and import the project
 - Add your Discord Token in your env `DISCORD_BOT_TOKEN`
 - Configure [skip port verification](https://www.openode.io/docs/misc/skip_port_verification.md)
 - Run the openode 
+
+### Run on [replit](https://replit.com/)
+
+- Go To replit and import the project 
+- Add your Discord Token in your env `DISCORD_BOT_TOKEN`
+- Run the replit
 
 ### Use Commands
 
